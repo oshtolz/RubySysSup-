@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'rake'
+gem 'rspec'
+gem 'gruff'
+gem 'rmagick'
+gem 'terminal-table'
+gem 'technical-analysis'
